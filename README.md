@@ -1,5 +1,5 @@
 # sphereraycastingtexturelighting
-Sphere Ray Caster Textured with Lighting
+Sphere Ray Caster Textured with Lighting in 360 degrees
 
 ![testCCCB4](https://user-images.githubusercontent.com/19920254/146087346-b263bd58-a1a1-4843-a879-8014b49cc0c2.png)
 ![testCCCA4](https://user-images.githubusercontent.com/19920254/146087327-a04a657a-0f26-4578-a779-1366d45c9c0d.png)
