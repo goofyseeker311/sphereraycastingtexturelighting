@@ -1,6 +1,6 @@
 # sphereraycastingtexturelighting
 Sphere Ray Caster Textured with Lighting in 360 degrees
 
-![testCCCB4](https://user-images.githubusercontent.com/19920254/146087346-b263bd58-a1a1-4843-a879-8014b49cc0c2.png)
-![testCCCA4](https://user-images.githubusercontent.com/19920254/146087327-a04a657a-0f26-4578-a779-1366d45c9c0d.png)
-![Equirectangular-projection](https://user-images.githubusercontent.com/19920254/146087326-d26a1a95-f726-4c88-abde-4c185f7b63a8.png)
+![testCCCB7](https://user-images.githubusercontent.com/19920254/146208078-16524024-c632-42ff-ae91-53413c847652.png)
+![testCCCA7](https://user-images.githubusercontent.com/19920254/146208065-bcb286e7-140d-4108-8743-30cb3ee2a58c.png)
+![physical-world-map](https://user-images.githubusercontent.com/19920254/146208055-776e0758-31e5-4e9c-bdf0-0a865b5413db.jpg)
